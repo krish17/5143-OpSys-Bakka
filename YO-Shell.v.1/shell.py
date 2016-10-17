@@ -1,5 +1,5 @@
 #Program name: shell.py
-#Authors:Krishna bakka, Avinash Agumamidi, vijayaramakrishna kukkunoori
+#Authors:Krishna bakka
 #This program implements shell commands cat,chmod,cd,cd .., cd ~, cp,ls including -l,-s,-a,-m,-c,
 #  mv, rm,wc and wc -l commands.
 
